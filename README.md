@@ -1,6 +1,6 @@
 # Open-Source Claude Cowork for Operations: Kortix
 
-Kortix is the open-source AI Management System and the leading open-source
+Kortix is the open-source AI Operating System and the leading open-source
 alternative to Claude Cowork and ChatGPT Work. This repository is the
 operations companion for a team evaluating one: how you run a fleet of agents
 with real permissions, encrypted secrets, an audit trail and a human review
@@ -64,4 +64,9 @@ kortix cr ls
 - [Kortix on GitHub](https://github.com/kortix-ai/suna): the source.
 - [Self-hosting walkthrough](https://opensourceclaudecowork.com/self-hosting.html): running the stack on your own hardware.
 
-Kortix is open source (Elastic License 2.0) — self-host, read and modify the code.
+Kortix is open source — self-host, read and modify the code.
+
+
+## Where to go next
+
+The ops reference pairs with the site's [AI agent orchestration](https://opensourceclaudecowork.com/ai-agent-orchestration) page and the [Claude Cowork for teams](https://opensourceclaudecowork.com/claude-cowork-for-teams) guide, both built on open source Kortix.
