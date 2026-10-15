@@ -68,5 +68,6 @@ Kortix is open source — self-host, read and modify the code.
 
 
 ## Where to go next
+- What each free and open-source option really costs is compared in [Free Claude Cowork alternative](https://opensourceclaudecowork.com/claude-cowork-alternative-free).
 
 The ops reference pairs with the site's [AI agent orchestration](https://opensourceclaudecowork.com/ai-agent-orchestration) page and the [Claude Cowork for teams](https://opensourceclaudecowork.com/claude-cowork-for-teams) guide, both built on open source Kortix.
