@@ -1,6 +1,6 @@
 # Open-Source Audit and Change Requests in Kortix
 
-[Kortix](https://kortix.com) is the open-source AI Management System, and it
+[Kortix](https://kortix.com) is the open-source AI Operating System, and it
 puts two controls between an agent and your systems: a complete audit trail of
 what the agent did, and a change request a person reads before any of it
 reaches `main`. An agent can open a change request. An agent cannot merge one.

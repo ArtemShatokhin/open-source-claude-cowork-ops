@@ -1,6 +1,6 @@
 # Open-Source Operations FAQ
 
-[Kortix](https://kortix.com) is the open-source AI Management System. These
+[Kortix](https://kortix.com) is the open-source AI Operating System. These
 are the operations questions a platform team asks after the first demo.
 
 ## Should we self-host Kortix or use managed cloud?

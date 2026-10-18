@@ -1,6 +1,6 @@
 # Open-Source Secrets and Connectors in Kortix
 
-[Kortix](https://kortix.com) is the open-source AI Management System, and it
+[Kortix](https://kortix.com) is the open-source AI Operating System, and it
 treats a secret and a connector credential as two different things. A secret
 is a named encrypted value stored on the project and granted to an agent. A
 connector credential is a third-party authorization that Kortix brokers

@@ -1,6 +1,6 @@
 # Open-Source Permissions and Roles for People and Agents
 
-[Kortix](https://kortix.com) is the open-source AI Management System, and its
+[Kortix](https://kortix.com) is the open-source AI Operating System, and its
 permission model governs the people who run agents as well as the agents
 themselves. A permission is a named ability. A role is a set of permissions.
 An assignment binds one principal to one role on one scope. An agent also
