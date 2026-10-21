@@ -52,5 +52,5 @@ environment, the model never sees it, and the audit ledger stores a hash of the
 arguments instead.
 
 See [Read the docs](https://kortix.com/docs) for the full command reference,
-and the [self-hosting walkthrough](https://opensourceclaudecowork.com/self-hosting.html)
+and the [self-hosting walkthrough](https://opensourceclaudecowork.com/self-hosting)
 for running the stack yourself.
